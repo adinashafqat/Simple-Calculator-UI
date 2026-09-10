@@ -1,8 +1,6 @@
-Green Calculator
-
 This is a basic calculator front-end made using HTML and CSS.
 
-Features
+**Features:**
 Green-themed calculator design
 Simple and clean layout
 Calculator buttons for numbers and operators
